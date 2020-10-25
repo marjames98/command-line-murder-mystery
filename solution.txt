@@ -1,0 +1,180 @@
+1)
+112  cd gahomework
+  113  git clone https://github.com/marjames98/command-line-murder-mystery.git
+  114  ls
+  115  git clone https://github.com/marjames98/command-line-murder-mystery.git
+  116  ls
+  117  cd command-line-murder-mystery/
+  118  code
+  119  code command-line-murder-mystery/
+  120  cd mystery
+  121  cd instructions
+  122  ls
+  123  cat interviews
+  124  cd interviews
+  125  ls
+  126  cd mystery
+  127  cd command-line-murder-mystery/
+  128  code command-line-murder-mystery/
+  129  cd command-line-murder-mystery/
+  130  code command-line-murder-mystery/
+  131  git clone https://github.com/marjames98/command-line-murder-mystery.git
+  132  cd mystery
+  133  cd command-line-murder-mystery/
+  134  cd
+  135  ls
+  136  cd command-line-murder-mystery/
+  137  cd mystery
+  138  cd crimescene
+  139  cat crimescene
+  140  ls
+  141  cd crimescene
+  142  cat crimescene
+  143  cat-crimescene "CLUE"
+  144  grep "CLUE" crimescene
+  145  cat hint1
+  146  ls
+  147  grep "CLUE" crimescene
+  148  cd people
+  149  cat people
+  150  ls
+  151  grep "CLUE" crimescene
+  152  grep "6'" people
+  153  grep "AAA" people
+  154  ls
+  155  grep "AAA" memberships
+  156  cat memberships
+  157  cat crimescene
+  158  ls
+  159  grep "CLUE" interviews
+  160  grep -r "AAA" people
+  161  ls
+  162  grep "CLUE" crimescene
+  163  cat people
+  164  cat memberships
+  165  ls
+  166  cat crimescene
+  167  cd crimescene
+  168  grep "CLUE" crimescene
+  169  cat people
+  170  grep "M" people
+  171  grep -r "M" people
+  172  grep "Annabel" people
+  173  head -n 40 streets/Hart Place | tail -n 1
+  174  ls
+  175  cat streets
+  176  cd streets
+  177  grep "Hart Place" streets
+  178  Hart Place
+  179  ls
+  180  Hart_Place
+  181  ls
+  182  ls Hart_Place
+  183  cd crimescene
+  184  cat Hart_Place
+  185  cd
+  186  ls
+  187  cd command-line-murder-mystery/
+  188  ls
+  189  cd mystery
+  190  ls
+  191  cd crimescene
+  192  cat crimescene
+  193  grep "CLUE" crimescene
+  194  cat people
+  195  g
+  196  grep "Annabel" people
+  197  ls
+  198  cat vehicles
+  199  grep "6'" vehicles
+  200  cat people
+  201  grep "M" people
+  202  ls
+  203  cd command-line-murder-mystery/
+  204  ls
+  205  cd mystery
+  206  ls
+  207  cat crimescene
+  208  grep "CLUE" crimescene
+  209  cat people
+  210  g
+  211  grep "Annabel" people
+  212  touch 40 Hart Place streets
+  213  cat streets
+  214  cd streets
+  215  touch 40 Hart Street
+  216  cd 
+  217  cd command-line-murder-mystery/
+  218  cd mystery
+  219  cat people
+  220  g
+  221  grep "Annabel" people
+  222  ls
+  223  cd memberships
+  224  ls
+  225  cd
+  226  cd command-line-murder-mystery/
+  227  mystery/
+  228  ls
+  229  cd mystery/
+  230  ls
+  231  cd people
+  232  cat people
+  233  ls
+  234  grep AAA Delta_Skymiles
+  235  grep "AAA" people
+  236  ls
+  237  cat people | grep "AAA"
+  238  cat people
+  239  ls
+  240  cat AAA Delta_Skymiles 
+  241  cat place
+  242  cat 40
+  243  cat crimescene
+  244  grep "CLUE" crimescene
+  245  cat people
+  246  grep "Annabel" people
+  247  head -n 40 streets/Hart_Place
+  248  grep "Annabel" people
+  249  head -n 179 streets/Buckingham_Place
+  250  ls
+  251  grep interviews/#699607
+  252  ls
+  253  cd command-line-murder-mystery/
+  254  cd mystery
+  255  ls
+  256  cat crimescene
+  257  grep "CLUE" crimescene
+  258  cat people
+  259  grep "Annabel" people
+  260  head -n 40 streets/Hart_Place
+  261  head -n 179 streets/Buckigham_Place
+  262  head -n 179 streets/Buckingham_Place
+  263  ls
+  264  cd interviews
+  265  47246024
+  266  #47246024
+  267  ls
+  268  interview-47246024
+  269  open interview-47246024
+  270  xdg-open interview-47246024
+  271  ls
+  272  touch interview-47246024
+  273  grep "47246024" interviews
+  274  cd
+  275  cd command-line-murder-mystery/
+  276  c mystery/
+  277  cd mystery/
+  278  ls
+  279  cd interviews
+  280  ls
+  281  interview-47246024
+  282  history
+  
+  2)
+
+Comfort Level (1-5): 4.5 
+
+Completeness Level (1-5): 3
+
+Do you have any remaining questions about this deliverable?: Couldn't figure out how to open specific interview file, attempted multiple commands.
